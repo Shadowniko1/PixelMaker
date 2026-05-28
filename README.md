@@ -1,3 +1,3 @@
 # PixelMaker
 
-an app that does a normal picture in pixel-picture
+an app that converts a normal picture in pixel-picture
